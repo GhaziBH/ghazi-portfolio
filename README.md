@@ -1,6 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GhaziBH)](https://github.com/GhaziBH/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GhaziBH&theme=algolia)
 
 # GhaziPortfolio
 
@@ -29,3 +28,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GhaziBH&theme=algolia)
